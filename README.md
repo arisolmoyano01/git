@@ -1,9 +1,8 @@
 # Sistema de Gestión de Kiosco
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Moyano Ariadna Solange
+- Salcedo Axel Simon
 
 ## Descripción
 Sistema en consola desarrollado en JavaScript para gestionar:
