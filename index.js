@@ -4,6 +4,7 @@ const { registrarCompra } = require("./compras");
 const { actualizarStock } = require("./stock");
 const { validarDatos } = require("./validaciones");
 const { mostrarReportes } = require("./reportes");
+const { mostrarMenu } = require("./menu");
 console.log("=== SISTEMA KIOSCO ===");
 
 agregarProducto();
@@ -12,3 +13,4 @@ registrarCompra();
 actualizarStock();
 validarDatos();
 mostrarReportes();
+mostrarMenu();
